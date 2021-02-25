@@ -5,7 +5,7 @@ class indexController
 {
     public function execute(){
 
-        echo '<form method="post" action="index.php?action=fight">
+        echo '<form method="post" action="/index.php?action=fight">
             <h3>Fighter 1</h3>
                 Name:<input type="text" name = "vorname1">
     

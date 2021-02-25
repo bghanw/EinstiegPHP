@@ -1,7 +1,7 @@
 <?php
 
 
-class fightConroller
+class FightController
 {
     public function execute(){
 

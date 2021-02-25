@@ -13,18 +13,18 @@
 <body>
 <?php
 
-require_once 'src/fightConroller.php';
-require_once 'src/indexController.php';
+require_once 'src/FightController.php';
+require_once 'src/IndexController.php';
 
 $action = isset($_GET['action']) ? $_GET['action'] : 'index';
 $controller = null;
 
 switch ($action) {
     case 'index':
-        $controller = new indexController();
+        $controller = new IndexController();
         break;
     case 'fight':
-        $controller = new fightConroller();
+        $controller = new FightController();
         break;
 }
 
