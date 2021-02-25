@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a08d584-3cce-4ef6-9b46-ccf3cbb435b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/part2/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/src/fightConroller.php" beforeDir="false" afterPath="$PROJECT_DIR$/part2/src/FightController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/src/indexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/part2/src/IndexController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/src/knight.php" beforeDir="false" afterPath="$PROJECT_DIR$/part2/src/Knight.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="fbd00685-82d4-4f87-b675-b2dacbeba08a" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\xampp\htdocs\EinstiegPHP\part2" selected_validation_type="LOCAL" web_path_to_validation_script="http://localhost:80" />
   <component name="ProjectId" id="1ovL5DHJmygrLbHkKIqTp4ArUXO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,19 +40,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\EinstiegPHP\part2\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="part2" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" server_name="localhost" start_url="/EinstiegPHP/part2/">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,6 +71,7 @@
       <workItem from="1614161932611" duration="14485000" />
       <workItem from="1614238970430" duration="115000" />
       <workItem from="1614239244425" duration="7131000" />
+      <workItem from="1614247147883" duration="1549000" />
     </task>
     <servers />
   </component>
@@ -78,6 +88,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/part2/src/IndexController.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
